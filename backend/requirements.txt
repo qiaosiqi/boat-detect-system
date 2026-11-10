@@ -1,0 +1,6 @@
+# Install PyTorch and torchvision using the CUDA or CPU command in README.md.
+fastapi==0.128.5
+uvicorn==0.41.0
+python-multipart==0.0.29
+ultralytics==8.4.208
+opencv-python==4.13.0.92
